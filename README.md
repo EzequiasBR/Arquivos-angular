@@ -15,7 +15,7 @@ Este manual reúne os tópicos essenciais do Angular, desde os conceitos básico
 * **Data Binding:**
     * Mecanismo para conectar dados do componente à sua representação visual no template.
 * **Diretivas:**
-    * Instruções especiais que adicionam funcionalidades ao HTML, como ngFor, ngIf e eventos.
+    * Instruções especiais que adicionam funcionalidades ao HTML, como ngFor, ngIf, eventos e etc.
 * **Módulos:**
     * Organizam componentes, serviços e outros recursos em unidades lógicas.
 * **Serviços:**
